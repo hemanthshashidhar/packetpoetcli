@@ -27,7 +27,7 @@ No more scrolling through hex dumps. Understand your network like you're reading
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/packetpoet.git
+git clone https://github.com/hemanthshashidhar/packetpoet.git
 cd packetpoet
 
 # Create virtual environment
